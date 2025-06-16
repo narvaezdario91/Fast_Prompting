@@ -25,8 +25,8 @@ En el ciclo de desarrollo de software, la creación manual de casos de prueba es
 
 ---
 
-**Configura tu clave de API de Gemini**:
-    * Crea una cuenta en Google AI Studio y genera una clave de API.
+## Configura tu clave de API de Gemini**:
+* Crea una cuenta en Google AI Studio y genera una clave de API.
 ---
 
 ## Técnica de Prompting Utilizada: "Fast Prompting"
